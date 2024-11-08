@@ -9,17 +9,17 @@ This project is in the process of development. Below are some screenshots that d
 ### 1. Home Page
 The homepage displays the navigation menu and the hero section.
 
-![Home Page Screenshot](https://raw.githubusercontent.com/Dave-ndichuh/FarmFresh/main/images/home-page-screenshot.png)
+![Home Page Screenshot](https://raw.githubusercontent.com/Dave-ndichuh/FarmFresh/main/images/home.png)
 
 ### 2. Products Page
 The products page shows various farm products with their names, prices in KES, and "Order Now" buttons.
 
-![Products Page Screenshot](https://raw.githubusercontent.com/Dave-ndichuh/FarmFresh/main/images/products-page-screenshot.png)
+![Products Page Screenshot](https://raw.githubusercontent.com/Dave-ndichuh/FarmFresh/main/images/product.png)
 
 ### 3. About Us Page
 The About Us page contains information about the mission and vision of FarmFresh.
 
-![About Page Screenshot](https://raw.githubusercontent.com/Dave-ndichuh/FarmFresh/main/images/about-page-screenshot.png)
+![About Page Screenshot](https://raw.githubusercontent.com/Dave-ndichuh/FarmFresh/main/images/about.png)
 
 ## Installation
 

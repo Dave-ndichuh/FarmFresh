@@ -1,0 +1,27 @@
+<!-- about.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - FarmFresh</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+</head>
+<body>
+    <header>
+        <h1>Welcome to FarmFresh</h1>
+        <nav>
+            <a href="{% url 'index' %}">Home</a>
+            <a href="{% url 'products' %}">Products</a>
+            <a href="{% url 'about' %}">About Us</a>  <!-- About link -->
+            <a href="{% url 'contact' %}">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>About FarmFresh</h2>
+        <p>At FarmFresh, we believe in providing the freshest, highest quality farm products directly from local farms to your doorstep. We are committed to sustainability, supporting local farmers, and promoting healthy living through organic produce.</p>
+    </main>
+</body>
+</html>
